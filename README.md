@@ -3,26 +3,6 @@
 
 - **Netflix Clone made with React, Redux and Firebase**
 
----
-
-## Quick Links
-
-[Demo](#demo)
-
-- [Live Site](#live-site-demo)
-- [Video](#video-demo)
-
-[Tech Stack](#tech-stack)
-
-[About](#Implementation-Hightlights)
-
-- [Plans for Expansion](#future-plans-for-expansion)
-
-[Author](#author)
-
-[License](#license)
-
----
 
 
 ### Video Demo
